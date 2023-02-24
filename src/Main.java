@@ -18,7 +18,7 @@ public class Main {
 
             case 3:
                 System.out.println("French");
-                break;
+                break   ;
             default:
                 System.out.println("wrong input");
                 break;
